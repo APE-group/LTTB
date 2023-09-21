@@ -28,4 +28,5 @@ To reproduce the results presented in `Figure 3` and `Figure 4` of the paper, si
 ## Button & Food Task
 
 To reproduce the results presented in `Figure 5` of the paper, run the associated notebook `Figure_5.ipynb`.
+
 To reproduce the results presented in `Figure 6` of the paper, for the spiking network, run the associated notebook `Figure_6.ipynb`, in the LTTS folder.
