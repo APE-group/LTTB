@@ -10,11 +10,11 @@ The code is written in Python and organized as follows. The network model itself
 
 To easily replicate the experiments presented in the paper we provide Jupyter Notebooks that can be run on their own.
 
-## External Dependences
+## External Dependencies
 To run the different experiments the following external libraries should be installed on the machine:
 
 ```python
-jupyter notebook    # for a easier user interface
+jupyter notebook    # for an easier user interface
 numpy               # Basic numerical array library
 matplotlib          # Used for producing the various visualizations
 json                # Use to parse the model configuration file
