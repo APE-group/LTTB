@@ -1,6 +1,6 @@
 # Learning Through Target Bursts (LTTB)
 
-This is the accompanying source code of the [ICML 2022 conference paper: Cristiano Capone<sup>\*</sup>, Cosimo Lupo<sup>\*</sup>, Paolo Muratore, Pier Stanislao Paolucci (2022) "*Burst-dependent plasticity and dendritic amplification support target-based learning and hierarchical imitation learning*"](https://proceedings.mlr.press/v162/capone22b.html).
+This is the accompanying source code of the [arxiv preprint: Cristiano Capone<sup>\*</sup>, Cosimo Lupo<sup>\*</sup>, Paolo Muratore, Pier Stanislao Paolucci (2022) "*Beyond spiking networks: the computational advantages of dendritic amplification and input segregation*"](https://doi.org/10.48550/arXiv.2211.02553).
 
 Please give credit to this paper if you use or modify the code in a derivative work. This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
@@ -23,8 +23,9 @@ tqdm
 
 ## Bursts & Context Switch
 
-To reproduce the results presented in `Figure 1` and `Figure 2` of the paper, simply run the associated notebooks: `Figure_1.ipynb` and `Figure_2.ipynb`.
+To reproduce the results presented in `Figure 3` and `Figure 4` of the paper, simply run the associated notebooks: `Figure_3.ipynb` and `Figure_4.ipynb`.
 
 ## Button & Food Task
 
-To reproduce the results presented in `Figure 3` of the paper, run the associated notebook `Figure_3.ipynb`.
+To reproduce the results presented in `Figure 5` of the paper, run the associated notebook `Figure_5.ipynb`.
+To reproduce the results presented in `Figure 6` of the paper, for the spiking network, run the associated notebook `Figure_6.ipynb`, in the LTTS folder.
