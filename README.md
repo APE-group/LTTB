@@ -1,6 +1,6 @@
 # Learning Through Target Bursts (LTTB)
 
-This is the accompanying source code of the [arxiv preprint: Cristiano Capone<sup>\*</sup>, Cosimo Lupo<sup>\*</sup>, Paolo Muratore, Pier Stanislao Paolucci (2022) "*Beyond spiking networks: the computational advantages of dendritic amplification and input segregation*"](https://doi.org/10.48550/arXiv.2211.02553).
+This is the accompanying source code of the paper: "*Beyond spiking networks: The computational advantages of dendritic amplification and input segregation*", [PNAS, Vol. 120 (2023) e2220743120](https://doi.org/10.1073/pnas.2220743120), by Cristiano Capone<sup>\*</sup>, Cosimo Lupo<sup>\*</sup>, Paolo Muratore, Pier Stanislao Paolucci.
 
 Please give credit to this paper if you use or modify the code in a derivative work. This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
